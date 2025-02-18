@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1  tvg-name="Cine | AMC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/640px-Amc_logo.svg.png" group-title="Latinos Canales CuCa-TV",Cine | AMC UHD
 http://zuiowy.net:8080/cucaesputo/putoescuca/3368
 #EXTINF:-1  tvg-name="Cine | FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKIPh6VGRdRVS9NqYelg6JDZowqMp2sv8qXQ&s" group-title="Latinos Canales CuCa-TV",Cine | FX HD
@@ -169,137 +169,137 @@ http://zuiowy.net:8080/cucaesputo/putoescuca/20424
 http://zuiowy.net:8080/cucaesputo/putoescuca/460
 #EXTINF:-1  tvg-name="CO | Senal Colombia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Latinos Canales CuCa-TV",CO | Senal Colombia HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/472
-#EXTINF:-1  tvg-name="CO | Tele Islas Channel SD" group-title="Latinos Canales CuCa-TV",CO | Tele Islas Channel SD
+#EXTINF:-1  tvg-name="CO | Tele Islas Channel SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipyUszwklEwXoiCPIh3rM7TYcHMxywWVZZg&s" group-title="Latinos Canales CuCa-TV",CO | Tele Islas Channel SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/124600
-#EXTINF:-1  tvg-name="CO | TeleAntioquia HD" group-title="Latinos Canales CuCa-TV",CO | TeleAntioquia HD
+#EXTINF:-1  tvg-name="CO | TeleAntioquia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Teleantioquia_logo.png" group-title="Latinos Canales CuCa-TV",CO | TeleAntioquia HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/468
-#EXTINF:-1  tvg-name="CO | TeleCafe HD" group-title="Latinos Canales CuCa-TV",CO | TeleCafe HD
+#EXTINF:-1  tvg-name="CO | TeleCafe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="Latinos Canales CuCa-TV",CO | TeleCafe HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/471
-#EXTINF:-1  tvg-name="CO | TeleCaribe HD" group-title="Latinos Canales CuCa-TV",CO | TeleCaribe HD
+#EXTINF:-1  tvg-name="CO | TeleCaribe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="Latinos Canales CuCa-TV",CO | TeleCaribe HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/479
-#EXTINF:-1  tvg-name="CO | TeleMedellin HD" group-title="Latinos Canales CuCa-TV",CO | TeleMedellin HD
+#EXTINF:-1  tvg-name="CO | TeleMedellin HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Latinos Canales CuCa-TV",CO | TeleMedellin HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/467
-#EXTINF:-1  tvg-name="CO | TelePacifico HD" group-title="Latinos Canales CuCa-TV",CO | TelePacifico HD
+#EXTINF:-1  tvg-name="CO | TelePacifico HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LOGO-TELEPACIFICO.png/800px-LOGO-TELEPACIFICO.png" group-title="Latinos Canales CuCa-TV",CO | TelePacifico HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/470
-#EXTINF:-1  tvg-name="CO | TV Agro HD" group-title="Latinos Canales CuCa-TV",CO | TV Agro HD
+#EXTINF:-1  tvg-name="CO | TV Agro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/800px-TV_Agro_logo.svg.png" group-title="Latinos Canales CuCa-TV",CO | TV Agro HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/486
-#EXTINF:-1  tvg-name="CO | Vallenato Internacional HD" group-title="Latinos Canales CuCa-TV",CO | Vallenato Internacional HD
+#EXTINF:-1  tvg-name="CO | Vallenato Internacional HD" tvg-logo="https://image.roku.com/developer_channels/prod/3f4740711f32174fe3b7b82ed40bff9ecff191bdb2a4da07ef4a98d766869740.png" group-title="Latinos Canales CuCa-TV",CO | Vallenato Internacional HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/90846
-#EXTINF:-1  tvg-name="CO | Win Sports + HD 1" group-title="Latinos Canales CuCa-TV",CO | Win Sports + HD 1
+#EXTINF:-1  tvg-name="CO | Win Sports + HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Latinos Canales CuCa-TV",CO | Win Sports + HD 1
 http://zuiowy.net:8080/cucaesputo/putoescuca/461
-#EXTINF:-1  tvg-name="CO | Win Sports + HD 2" group-title="Latinos Canales CuCa-TV",CO | Win Sports + HD 2
+#EXTINF:-1  tvg-name="CO | Win Sports + HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Latinos Canales CuCa-TV",CO | Win Sports + HD 2
 http://zuiowy.net:8080/cucaesputo/putoescuca/462
-#EXTINF:-1  tvg-name="CO | Win Sports + HD 3" group-title="Latinos Canales CuCa-TV",CO | Win Sports + HD 3
+#EXTINF:-1  tvg-name="CO | Win Sports + HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Latinos Canales CuCa-TV",CO | Win Sports + HD 3
 http://zuiowy.net:8080/cucaesputo/putoescuca/20427
-#EXTINF:-1  tvg-name="CO | Win Sports HD 1" group-title="Latinos Canales CuCa-TV",CO | Win Sports HD 1
+#EXTINF:-1  tvg-name="CO | Win Sports HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Latinos Canales CuCa-TV",CO | Win Sports HD 1
 http://zuiowy.net:8080/cucaesputo/putoescuca/463
-#EXTINF:-1  tvg-name="CO | Win Sports HD 2" group-title="Latinos Canales CuCa-TV",CO | Win Sports HD 2
+#EXTINF:-1  tvg-name="CO | Win Sports HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Latinos Canales CuCa-TV",CO | Win Sports HD 2
 http://zuiowy.net:8080/cucaesputo/putoescuca/464
-#EXTINF:-1  tvg-name="Deportes HD | Afizzionados HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Afizzionados HD
+#EXTINF:-1  tvg-name="Deportes HD | Afizzionados HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3SPwjXEIvNHyi1L0JWasQXBcUK5l1t9Y5Q&s" group-title="Latinos Canales CuCa-TV",Deportes HD | Afizzionados HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/28909
-#EXTINF:-1  tvg-name="Deportes HD | Afizzionados HD OPC 2" group-title="Latinos Canales CuCa-TV",Deportes HD | Afizzionados HD OPC 2
+#EXTINF:-1  tvg-name="Deportes HD | Afizzionados HD OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3SPwjXEIvNHyi1L0JWasQXBcUK5l1t9Y5Q&s" group-title="Latinos Canales CuCa-TV",Deportes HD | Afizzionados HD OPC 2
 http://zuiowy.net:8080/cucaesputo/putoescuca/1303
-#EXTINF:-1  tvg-name="Deportes HD | AYM Sports HD" group-title="Latinos Canales CuCa-TV",Deportes HD | AYM Sports HD
+#EXTINF:-1  tvg-name="Deportes HD | AYM Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcmHzpyoKtxcgeLh33ngoWjpedMm82mb1dw&s" group-title="Latinos Canales CuCa-TV",Deportes HD | AYM Sports HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1297
-#EXTINF:-1  tvg-name="Deportes HD | Bein Sports La Liga HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Bein Sports La Liga HD
+#EXTINF:-1  tvg-name="Deportes HD | Bein Sports La Liga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Bein Sports La Liga HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/3215
-#EXTINF:-1  tvg-name="Deportes HD | Bein Sports Ñ OPC 1 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Bein Sports Ñ OPC 1 HD
+#EXTINF:-1  tvg-name="Deportes HD | Bein Sports Ñ OPC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Bein Sports Ñ OPC 1 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1261
-#EXTINF:-1  tvg-name="Deportes HD | Bein Sports Ñ OPC 2 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Bein Sports Ñ OPC 2 HD
+#EXTINF:-1  tvg-name="Deportes HD | Bein Sports Ñ OPC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Bein Sports Ñ OPC 2 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1262
-#EXTINF:-1  tvg-name="Deportes HD | Claro Sports HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Claro Sports HD
+#EXTINF:-1  tvg-name="Deportes HD | Claro Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Latinos Canales CuCa-TV",Deportes HD | Claro Sports HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1309
-#EXTINF:-1  tvg-name="Deportes HD | Claro Sports Sur HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Claro Sports Sur HD
+#EXTINF:-1  tvg-name="Deportes HD | Claro Sports Sur HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Latinos Canales CuCa-TV",Deportes HD | Claro Sports Sur HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/113373
-#EXTINF:-1  tvg-name="Deportes HD | DirecTV Sports + HD" group-title="Latinos Canales CuCa-TV",Deportes HD | DirecTV Sports + HD
+#EXTINF:-1  tvg-name="Deportes HD | DirecTV Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="Latinos Canales CuCa-TV",Deportes HD | DirecTV Sports + HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1284
-#EXTINF:-1  tvg-name="Deportes HD | DirecTV Sports 1 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | DirecTV Sports 1 HD
+#EXTINF:-1  tvg-name="Deportes HD | DirecTV Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="Latinos Canales CuCa-TV",Deportes HD | DirecTV Sports 1 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1282
-#EXTINF:-1  tvg-name="Deportes HD | DirecTV Sports 2 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | DirecTV Sports 2 HD
+#EXTINF:-1  tvg-name="Deportes HD | DirecTV Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="Latinos Canales CuCa-TV",Deportes HD | DirecTV Sports 2 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1283
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 1 (Arg) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 1 (Arg) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 1 (Arg) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 1 (Arg) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1263
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 1 (Chile) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 1 (Chile) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 1 (Chile) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 1 (Chile) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/112695
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 1 (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 1 (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 1 (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 1 (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1266
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 2 (Arg) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 2 (Arg) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 2 (Arg) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 2 (Arg) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1264
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 2 (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 2 (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 2 (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 2 (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1267
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 3 (Arg) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 3 (Arg) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 3 (Arg) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 3 (Arg) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1265
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 3 (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 3 (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 3 (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 3 (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1268
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 4 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 4 HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 4 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/105410
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 5 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 5 HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 5 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/150660
-#EXTINF:-1  tvg-name="Deportes HD | ESPN 6 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 6 HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN 6 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/150661
-#EXTINF:-1  tvg-name="Deportes HD | ESPN CARIBE" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN CARIBE
+#EXTINF:-1  tvg-name="Deportes HD | ESPN CARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN CARIBE
 http://zuiowy.net:8080/cucaesputo/putoescuca/129014
-#EXTINF:-1  tvg-name="Deportes HD | ESPN Deportes HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Deportes HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Deportes HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1269
-#EXTINF:-1  tvg-name="Deportes HD | ESPN Deportes HD Opc 2" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Deportes HD Opc 2
+#EXTINF:-1  tvg-name="Deportes HD | ESPN Deportes HD Opc 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Deportes HD Opc 2
 http://zuiowy.net:8080/cucaesputo/putoescuca/134917
-#EXTINF:-1  tvg-name="Deportes HD | ESPN Plus HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Plus HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Plus HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1270
-#EXTINF:-1  tvg-name="Deportes HD | ESPN Premium HD (1)" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Premium HD (1)
+#EXTINF:-1  tvg-name="Deportes HD | ESPN Premium HD (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Premium HD (1)
 http://zuiowy.net:8080/cucaesputo/putoescuca/102180
-#EXTINF:-1  tvg-name="Deportes HD | ESPN Premium HD (2)" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Premium HD (2)
+#EXTINF:-1  tvg-name="Deportes HD | ESPN Premium HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN Premium HD (2)
 http://zuiowy.net:8080/cucaesputo/putoescuca/1281
-#EXTINF:-1  tvg-name="Deportes HD | ESPN U HD" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN U HD
+#EXTINF:-1  tvg-name="Deportes HD | ESPN U HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | ESPN U HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1271
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports (Chile) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports (Chile) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports (Chile) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports (Chile) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1280
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 1 (Arg) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 1 (Arg) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 1 (Arg) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 1 (Arg) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1272
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 1 (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 1 (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 1 (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 1 (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1275
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 2 (Arg) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 2 (Arg) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 2 (Arg) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 2 (Arg) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1273
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 2 (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 2 (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 2 (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 2 (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1276
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 3 (Arg) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 3 (Arg) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 3 (Arg) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 3 (Arg) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1274
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 3 (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 3 (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports 3 (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports 3 (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1277
-#EXTINF:-1  tvg-name="Deportes HD | Fox Sports Premium Mexico HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports Premium Mexico HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Sports Premium Mexico HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Sports Premium Mexico HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/13775
-#EXTINF:-1  tvg-name="Deportes HD | GOL TV HD" group-title="Latinos Canales CuCa-TV",Deportes HD | GOL TV HD
+#EXTINF:-1  tvg-name="Deportes HD | GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png" group-title="Latinos Canales CuCa-TV",Deportes HD | GOL TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1307
-#EXTINF:-1  tvg-name="Deportes HD | Golf Channel Latino HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Golf Channel Latino HD
+#EXTINF:-1  tvg-name="Deportes HD | Golf Channel Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Golf Channel Latino HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1305
-#EXTINF:-1  tvg-name="Deportes HD | Movistar Deportes HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Movistar Deportes HD
+#EXTINF:-1  tvg-name="Deportes HD | Movistar Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Movistar Deportes HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1308
-#EXTINF:-1  tvg-name="Deportes HD | NBC Golf (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | NBC Golf (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | NBC Golf (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | NBC Golf (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1304
-#EXTINF:-1  tvg-name="Deportes HD | Real Madrid TV HD (B)" group-title="Latinos Canales CuCa-TV",Deportes HD | Real Madrid TV HD (B)
+#EXTINF:-1  tvg-name="Deportes HD | Real Madrid TV HD (B)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest/scale-to-width-down/288?cb=20191224175551" group-title="Latinos Canales CuCa-TV",Deportes HD | Real Madrid TV HD (B)
 http://zuiowy.net:8080/cucaesputo/putoescuca/1302
-#EXTINF:-1  tvg-name="Deportes HD | Red Bull TV HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Red Bull TV HD
+#EXTINF:-1  tvg-name="Deportes HD | Red Bull TV HD" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Red Bull TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1301
-#EXTINF:-1  tvg-name="Deportes HD | Sky Sports 24 HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Sky Sports 24 HD
+#EXTINF:-1  tvg-name="Deportes HD | Sky Sports 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Sky Sports 24 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1299
-#EXTINF:-1  tvg-name="Deportes HD | Tigo Sports Guatemala HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Tigo Sports Guatemala HD
+#EXTINF:-1  tvg-name="Deportes HD | Tigo Sports Guatemala HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="Latinos Canales CuCa-TV",Deportes HD | Tigo Sports Guatemala HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/82320
-#EXTINF:-1  tvg-name="Deportes HD | TUDN (Mx) HD" group-title="Latinos Canales CuCa-TV",Deportes HD | TUDN (Mx) HD
+#EXTINF:-1  tvg-name="Deportes HD | TUDN (Mx) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | TUDN (Mx) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1285
-#EXTINF:-1  tvg-name="Deportes HD | TVC Deportes HD" group-title="Latinos Canales CuCa-TV",Deportes HD | TVC Deportes HD
+#EXTINF:-1  tvg-name="Deportes HD | TVC Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tvc_dep.jpg" group-title="Latinos Canales CuCa-TV",Deportes HD | TVC Deportes HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1306
-#EXTINF:-1  tvg-name="Deportes HD | UFC TV HD" group-title="Latinos Canales CuCa-TV",Deportes HD | UFC TV HD
+#EXTINF:-1  tvg-name="Deportes HD | UFC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1024px-UFC_Logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | UFC TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1298
-#EXTINF:-1  tvg-name="Deportes HD | Zona Futbol HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Zona Futbol HD
+#EXTINF:-1  tvg-name="Deportes HD | Zona Futbol HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxyjoiBy5WyKPpbzUZcgrZiXMZ1HEHLVSbQ&s" group-title="Latinos Canales CuCa-TV",Deportes HD | Zona Futbol HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/93999
-#EXTINF:-1  tvg-name="Deportes | Bein Sports Xtra Ñ HD" group-title="Latinos Canales CuCa-TV",Deportes | Bein Sports Xtra Ñ HD
+#EXTINF:-1  tvg-name="Deportes | Bein Sports Xtra Ñ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/2560px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes | Bein Sports Xtra Ñ HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/3216
-#EXTINF:-1  tvg-name="GUATEMALA | Tigo Sports" group-title="Latinos Canales CuCa-TV",GUATEMALA | Tigo Sports
+#EXTINF:-1  tvg-name="GUATEMALA | Tigo Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="Latinos Canales CuCa-TV",GUATEMALA | Tigo Sports
 http://zuiowy.net:8080/cucaesputo/putoescuca/82322
-#EXTINF:-1  tvg-name="GUATEMALA | Tigo Sports Plus HD" group-title="Latinos Canales CuCa-TV",GUATEMALA | Tigo Sports Plus HD
+#EXTINF:-1  tvg-name="GUATEMALA | Tigo Sports Plus HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="Latinos Canales CuCa-TV",GUATEMALA | Tigo Sports Plus HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/82323
-#EXTINF:-1  tvg-name="Deportes HD | Fox Deportes HD" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Deportes HD
+#EXTINF:-1  tvg-name="Deportes HD | Fox Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Latinos Canales CuCa-TV",Deportes HD | Fox Deportes HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/156963
-#EXTINF:-1  tvg-name="COLOMBIA | ESPN SD" group-title="Latinos Canales CuCa-TV",COLOMBIA | ESPN SD
+#EXTINF:-1  tvg-name="COLOMBIA | ESPN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/langes-1100px-ESPN_Deportes.svg.png" group-title="Latinos Canales CuCa-TV",COLOMBIA | ESPN SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1869
 #EXTINF:-1  tvg-name="Premium | Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Animal Planet HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2475
@@ -353,929 +353,153 @@ http://zuiowy.net:8080/cucaesputo/putoescuca/2568
 http://zuiowy.net:8080/cucaesputo/putoescuca/2569
 #EXTINF:-1  tvg-name="Premium | Lifetime HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Lifetime_Logo_%282014-2017%29.svg/revision/latest/scale-to-width-down/200?cb=20200125125311&path-prefix=es" group-title="Latinos Canales CuCa-TV",Premium | Lifetime HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2573
-#EXTINF:-1  tvg-name="Premium | Comedy Central (MX) HD (A)" group-title="Latinos Canales CuCa-TV",Premium | Comedy Central (MX) HD (A)
+#EXTINF:-1  tvg-name="Premium | Comedy Central (MX) HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Comedy Central (MX) HD (A)
 http://zuiowy.net:8080/cucaesputo/putoescuca/2574
-#EXTINF:-1  tvg-name="Premium | Comedy Central (Lat) HD" group-title="Latinos Canales CuCa-TV",Premium | Comedy Central (Lat) HD
+#EXTINF:-1  tvg-name="Premium | Comedy Central (Lat) HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7GatJMPXd6Rc_OXRQXzMFvOYrcqMe5tglw&s" group-title="Latinos Canales CuCa-TV",Premium | Comedy Central (Lat) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2575
-#EXTINF:-1  tvg-name="Premium | Glitz HD" group-title="Latinos Canales CuCa-TV",Premium | Glitz HD
+#EXTINF:-1  tvg-name="Premium | Glitz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Latinos Canales CuCa-TV",Premium | Glitz HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2576
-#EXTINF:-1  tvg-name="Premium | Hola TV HD" group-title="Latinos Canales CuCa-TV",Premium | Hola TV HD
+#EXTINF:-1  tvg-name="Premium | Hola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1200px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latinos Canales CuCa-TV",Premium | Hola TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2577
-#EXTINF:-1  tvg-name="Premium | Film & Arts HD" group-title="Latinos Canales CuCa-TV",Premium | Film & Arts HD
+#EXTINF:-1  tvg-name="Premium | Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Latinos Canales CuCa-TV",Premium | Film & Arts HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2579
-#EXTINF:-1  tvg-name="Premium | Sundance HD" group-title="Latinos Canales CuCa-TV",Premium | Sundance HD
+#EXTINF:-1  tvg-name="Premium | Sundance HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vQIIftHqCdpEvXY3QVJ00Stt60YzUijeiw&s" group-title="Latinos Canales CuCa-TV",Premium | Sundance HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2580
-#EXTINF:-1  tvg-name="Premium | I SAT (Lat) HD" group-title="Latinos Canales CuCa-TV",Premium | I SAT (Lat) HD
+#EXTINF:-1  tvg-name="Premium | I SAT (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Latinos Canales CuCa-TV",Premium | I SAT (Lat) HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2584
-#EXTINF:-1  tvg-name="Premium | Unicable HD" group-title="Latinos Canales CuCa-TV",Premium | Unicable HD
+#EXTINF:-1  tvg-name="Premium | Unicable HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1484px-Unicable_logo.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Unicable HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2587
-#EXTINF:-1  tvg-name="Premium | Wobi HD" group-title="Latinos Canales CuCa-TV",Premium | Wobi HD
+#EXTINF:-1  tvg-name="Premium | Wobi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="Latinos Canales CuCa-TV",Premium | Wobi HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/2588
-#EXTINF:-1  tvg-name="Premium | Discovery Familia" group-title="Latinos Canales CuCa-TV",Premium | Discovery Familia
+#EXTINF:-1  tvg-name="Premium | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Discovery Familia
 http://zuiowy.net:8080/cucaesputo/putoescuca/20443
-#EXTINF:-1  tvg-name="Premium | TruTV HD" group-title="Latinos Canales CuCa-TV",Premium | TruTV HD
+#EXTINF:-1  tvg-name="Premium | TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Latinos Canales CuCa-TV",Premium | TruTV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/3177
-#EXTINF:-1  tvg-name="Premium | Antena 3 Internacional HD" group-title="Latinos Canales CuCa-TV",Premium | Antena 3 Internacional HD
+#EXTINF:-1  tvg-name="Premium | Antena 3 Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Antena 3 Internacional HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/79546
-#EXTINF:-1  tvg-name="Premium | HGTV Lat" group-title="Latinos Canales CuCa-TV",Premium | HGTV Lat
+#EXTINF:-1  tvg-name="Premium | HGTV Lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Latinos Canales CuCa-TV",Premium | HGTV Lat
 http://zuiowy.net:8080/cucaesputo/putoescuca/108262
-#EXTINF:-1  tvg-name="Premium | Discovery ID (MX) (2)HD" group-title="Latinos Canales CuCa-TV",Premium | Discovery ID (MX) (2)HD
+#EXTINF:-1  tvg-name="Premium | Discovery ID (MX) (2)HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Latinos Canales CuCa-TV",Premium | Discovery ID (MX) (2)HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/140110
-#EXTINF:-1  tvg-name="Premium | H2" group-title="Latinos Canales CuCa-TV",Premium | H2
+#EXTINF:-1  tvg-name="Premium | H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Latinos Canales CuCa-TV",Premium | H2
 http://zuiowy.net:8080/cucaesputo/putoescuca/3162
-#EXTINF:-1  tvg-name="Premium | History Channel" group-title="Latinos Canales CuCa-TV",Premium | History Channel
+#EXTINF:-1  tvg-name="Premium | History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Latinos Canales CuCa-TV",Premium | History Channel
 http://zuiowy.net:8080/cucaesputo/putoescuca/3163
-#EXTINF:-1  tvg-name="Premium | El Garage TV" group-title="Latinos Canales CuCa-TV",Premium | El Garage TV
+#EXTINF:-1  tvg-name="Premium | El Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="Latinos Canales CuCa-TV",Premium | El Garage TV
 http://zuiowy.net:8080/cucaesputo/putoescuca/3167
-#EXTINF:-1  tvg-name="Premium | El Gourmet" group-title="Latinos Canales CuCa-TV",Premium | El Gourmet
+#EXTINF:-1  tvg-name="Premium | El Gourmet" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFNu29yl7UAkr8Majb8YOlmklahobO8lsLaBusRmIaqhFFS-mwJRYvBW-QP53qQJlI9G72TE9uMWAGD1p4p-cG3dQHc4oKA3J6fE_3DfjDJyXMlfkmesNyHQ52YB3HkSdVcD08cXhNwJA/s1600/elgourmet-2013.png" group-title="Latinos Canales CuCa-TV",Premium | El Gourmet
 http://zuiowy.net:8080/cucaesputo/putoescuca/3169
-#EXTINF:-1  tvg-name="Premium | Food Network" group-title="Latinos Canales CuCa-TV",Premium | Food Network
+#EXTINF:-1  tvg-name="Premium | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Food Network
 http://zuiowy.net:8080/cucaesputo/putoescuca/3171
-#EXTINF:-1  tvg-name="Premium | GLITZ" group-title="Latinos Canales CuCa-TV",Premium | GLITZ
+#EXTINF:-1  tvg-name="Premium | GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Latinos Canales CuCa-TV",Premium | GLITZ
 http://zuiowy.net:8080/cucaesputo/putoescuca/3173
-#EXTINF:-1  tvg-name="Premium | TNT Novelas HD" group-title="Latinos Canales CuCa-TV",Premium | TNT Novelas HD
+#EXTINF:-1  tvg-name="Premium | TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="Latinos Canales CuCa-TV",Premium | TNT Novelas HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/3176
-#EXTINF:-1  tvg-name="Premium | MTV" group-title="Latinos Canales CuCa-TV",Premium | MTV
+#EXTINF:-1  tvg-name="Premium | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Latinos Canales CuCa-TV",Premium | MTV
 http://zuiowy.net:8080/cucaesputo/putoescuca/3179
-#EXTINF:-1  tvg-name="Premium | VH1 MegaHits" group-title="Latinos Canales CuCa-TV",Premium | VH1 MegaHits
+#EXTINF:-1  tvg-name="Premium | VH1 MegaHits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5S14qa_OG--9e7MCiCsornRg0W2GNtgJew&s" group-title="Latinos Canales CuCa-TV",Premium | VH1 MegaHits
 http://zuiowy.net:8080/cucaesputo/putoescuca/3182
-#EXTINF:-1  tvg-name="Premium | Much Music" group-title="Latinos Canales CuCa-TV",Premium | Much Music
+#EXTINF:-1  tvg-name="Premium | Much Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="Latinos Canales CuCa-TV",Premium | Much Music
 http://zuiowy.net:8080/cucaesputo/putoescuca/3189
-#EXTINF:-1  tvg-name="Premium | TVE" group-title="Latinos Canales CuCa-TV",Premium | TVE
+#EXTINF:-1  tvg-name="Premium | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="Latinos Canales CuCa-TV",Premium | TVE
 http://zuiowy.net:8080/cucaesputo/putoescuca/3191
-#EXTINF:-1  tvg-name="Mexico | AZ Clic HD" group-title="Latinos Canales CuCa-TV",Mexico | AZ Clic HD
+#EXTINF:-1  tvg-name="Mexico | AZ Clic HD" tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/3/3d/AzClic.svg/revision/latest?cb=20240910185609" group-title="Latinos Canales CuCa-TV",Mexico | AZ Clic HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1218
-#EXTINF:-1  tvg-name="Mexico | AZ Corazon HD" group-title="Latinos Canales CuCa-TV",Mexico | AZ Corazon HD
+#EXTINF:-1  tvg-name="Mexico | AZ Corazon HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HBxo6HRWMx1mjPEgSlFu4dN47N3i5vvosw&s" group-title="Latinos Canales CuCa-TV",Mexico | AZ Corazon HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1219
-#EXTINF:-1  tvg-name="Mexico | AZ Mundo HD" group-title="Latinos Canales CuCa-TV",Mexico | AZ Mundo HD
+#EXTINF:-1  tvg-name="Mexico | AZ Mundo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGkUJqa6fOkZ20AMFBk2HLa2QQnwtm-KLUw&s" group-title="Latinos Canales CuCa-TV",Mexico | AZ Mundo HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1220
-#EXTINF:-1  tvg-name="Mexico | Azteca 7 FHD" group-title="Latinos Canales CuCa-TV",Mexico | Azteca 7 FHD
+#EXTINF:-1  tvg-name="Mexico | Azteca 7 FHD" tvg-logo="https://e7.pngegg.com/pngimages/136/253/png-clipart-azteca-7-logo-television-channel-canal-5-complex-miscellaneous-purple.png" group-title="Latinos Canales CuCa-TV",Mexico | Azteca 7 FHD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1221
-#EXTINF:-1  tvg-name="Mexico | Azteca 7 HD" group-title="Latinos Canales CuCa-TV",Mexico | Azteca 7 HD
+#EXTINF:-1  tvg-name="Mexico | Azteca 7 HD" tvg-logo="https://e7.pngegg.com/pngimages/136/253/png-clipart-azteca-7-logo-television-channel-canal-5-complex-miscellaneous-purple.png" group-title="Latinos Canales CuCa-TV",Mexico | Azteca 7 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1222
-#EXTINF:-1  tvg-name="Mexico | Azteca 7 SD" group-title="Latinos Canales CuCa-TV",Mexico | Azteca 7 SD
+#EXTINF:-1  tvg-name="Mexico | Azteca 7 SD" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="Latinos Canales CuCa-TV",Mexico | Azteca 7 SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1223
-#EXTINF:-1  tvg-name="Mexico | Azteca Uno FHD" group-title="Latinos Canales CuCa-TV",Mexico | Azteca Uno FHD
+#EXTINF:-1  tvg-name="Mexico | Azteca Uno FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="Latinos Canales CuCa-TV",Mexico | Azteca Uno FHD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1224
-#EXTINF:-1  tvg-name="Mexico | Azteca Uno HD" group-title="Latinos Canales CuCa-TV",Mexico | Azteca Uno HD
+#EXTINF:-1  tvg-name="Mexico | Azteca Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="Latinos Canales CuCa-TV",Mexico | Azteca Uno HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1225
-#EXTINF:-1  tvg-name="Mexico | Canal 5 FHD" group-title="Latinos Canales CuCa-TV",Mexico | Canal 5 FHD
+#EXTINF:-1  tvg-name="Mexico | Canal 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Latinos Canales CuCa-TV",Mexico | Canal 5 FHD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1226
-#EXTINF:-1  tvg-name="Mexico | Canal 5 HD" group-title="Latinos Canales CuCa-TV",Mexico | Canal 5 HD
+#EXTINF:-1  tvg-name="Mexico | Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Latinos Canales CuCa-TV",Mexico | Canal 5 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1227
-#EXTINF:-1  tvg-name="Mexico | Imagen HD" group-title="Latinos Canales CuCa-TV",Mexico | Imagen HD
+#EXTINF:-1  tvg-name="Mexico | Imagen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Latinos Canales CuCa-TV",Mexico | Imagen HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1231
-#EXTINF:-1  tvg-name="Mexico | Las Estrellas SD OPC 2" group-title="Latinos Canales CuCa-TV",Mexico | Las Estrellas SD OPC 2
+#EXTINF:-1  tvg-name="Mexico | Las Estrellas SD OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/150px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Las Estrellas SD OPC 2
 http://zuiowy.net:8080/cucaesputo/putoescuca/1232
-#EXTINF:-1  tvg-name="Mexico | Las Estrellas HD OPC 1" group-title="Latinos Canales CuCa-TV",Mexico | Las Estrellas HD OPC 1
+#EXTINF:-1  tvg-name="Mexico | Las Estrellas HD OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/150px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Las Estrellas HD OPC 1
 http://zuiowy.net:8080/cucaesputo/putoescuca/1233
-#EXTINF:-1  tvg-name="Mexico | Las Estrellas HD OPC 3" group-title="Latinos Canales CuCa-TV",Mexico | Las Estrellas HD OPC 3
+#EXTINF:-1  tvg-name="Mexico | Las Estrellas HD OPC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/150px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Las Estrellas HD OPC 3
 http://zuiowy.net:8080/cucaesputo/putoescuca/1234
-#EXTINF:-1  tvg-name="Mexico | Multimedios HD" group-title="Latinos Canales CuCa-TV",Mexico | Multimedios HD
+#EXTINF:-1  tvg-name="Mexico | Multimedios HD" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png" group-title="Latinos Canales CuCa-TV",Mexico | Multimedios HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1235
-#EXTINF:-1  tvg-name="Mexico | ADN40 HD" group-title="Latinos Canales CuCa-TV",Mexico | ADN40 HD
+#EXTINF:-1  tvg-name="Mexico | ADN40 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Latinos Canales CuCa-TV",Mexico | ADN40 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1241
-#EXTINF:-1  tvg-name="Mexico | Hola TV HD" group-title="Latinos Canales CuCa-TV",Mexico | Hola TV HD
+#EXTINF:-1  tvg-name="Mexico | Hola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1200px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latinos Canales CuCa-TV",Mexico | Hola TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1244
-#EXTINF:-1  tvg-name="Mexico | I SAT HD" group-title="Latinos Canales CuCa-TV",Mexico | I SAT HD
+#EXTINF:-1  tvg-name="Mexico | I SAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | I SAT HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1245
-#EXTINF:-1  tvg-name="Mexico | Telehit HD" group-title="Latinos Canales CuCa-TV",Mexico | Telehit HD
+#EXTINF:-1  tvg-name="Mexico | Telehit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/640px-Telehit_logo_2020.png" group-title="Latinos Canales CuCa-TV",Mexico | Telehit HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1247
-#EXTINF:-1  tvg-name="Mexico | Distrito Comedia HD" group-title="Latinos Canales CuCa-TV",Mexico | Distrito Comedia HD
+#EXTINF:-1  tvg-name="Mexico | Distrito Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Latinos Canales CuCa-TV",Mexico | Distrito Comedia HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1248
-#EXTINF:-1  tvg-name="Mexico | Unicable HD (A)" group-title="Latinos Canales CuCa-TV",Mexico | Unicable HD (A)
+#EXTINF:-1  tvg-name="Mexico | Unicable HD (A)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" group-title="Latinos Canales CuCa-TV",Mexico | Unicable HD (A)
 http://zuiowy.net:8080/cucaesputo/putoescuca/1252
-#EXTINF:-1  tvg-name="Mexico | Telenovelas HD" group-title="Latinos Canales CuCa-TV",Mexico | Telenovelas HD
+#EXTINF:-1  tvg-name="Mexico | Telenovelas HD" tvg-logo="https://e7.pngegg.com/pngimages/598/22/png-clipart-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television.png" group-title="Latinos Canales CuCa-TV",Mexico | Telenovelas HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1255
-#EXTINF:-1  tvg-name="Mexico | BitMe HD" group-title="Latinos Canales CuCa-TV",Mexico | BitMe HD
+#EXTINF:-1  tvg-name="Mexico | BitMe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg" group-title="Latinos Canales CuCa-TV",Mexico | BitMe HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/1257
-#EXTINF:-1  tvg-name="Mexico | Bandamax HD (A)" group-title="Latinos Canales CuCa-TV",Mexico | Bandamax HD (A)
+#EXTINF:-1  tvg-name="Mexico | Bandamax HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/2560px-Bandamax_logo.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Bandamax HD (A)
 http://zuiowy.net:8080/cucaesputo/putoescuca/1258
-#EXTINF:-1  tvg-name="Mexico | Galavision HD" group-title="Latinos Canales CuCa-TV",Mexico | Galavision HD
+#EXTINF:-1  tvg-name="Mexico | Galavision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Galavision HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/17278
-#EXTINF:-1  tvg-name="Mexico | Bloomberg HD" group-title="Latinos Canales CuCa-TV",Mexico | Bloomberg HD
+#EXTINF:-1  tvg-name="Mexico | Bloomberg HD" tvg-logo="https://w7.pngwing.com/pngs/221/526/png-transparent-bloomberg-television-hd-logo.png" group-title="Latinos Canales CuCa-TV",Mexico | Bloomberg HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/40929
-#EXTINF:-1  tvg-name="Mexico | Televisa Canal 9 HD" group-title="Latinos Canales CuCa-TV",Mexico | Televisa Canal 9 HD
+#EXTINF:-1  tvg-name="Mexico | Televisa Canal 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png" group-title="Latinos Canales CuCa-TV",Mexico | Televisa Canal 9 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/40932
-#EXTINF:-1  tvg-name="Mexico | Pasiones HD" group-title="Latinos Canales CuCa-TV",Mexico | Pasiones HD
+#EXTINF:-1  tvg-name="Mexico | Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Pasiones HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/28906
-#EXTINF:-1  tvg-name="Mexico | Cancun Canal 10" group-title="Latinos Canales CuCa-TV",Mexico | Cancun Canal 10
+#EXTINF:-1  tvg-name="Mexico | Cancun Canal 10" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/Canal10_squ-Square.png" group-title="Latinos Canales CuCa-TV",Mexico | Cancun Canal 10
 http://zuiowy.net:8080/cucaesputo/putoescuca/79539
-#EXTINF:-1  tvg-name="Mexico | TV Mas HD" group-title="Latinos Canales CuCa-TV",Mexico | TV Mas HD
+#EXTINF:-1  tvg-name="Mexico | TV Mas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Latinos Canales CuCa-TV",Mexico | TV Mas HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/79540
-#EXTINF:-1  tvg-name="Mexico | Garage TV SD" group-title="Latinos Canales CuCa-TV",Mexico | Garage TV SD
+#EXTINF:-1  tvg-name="Mexico | Garage TV SD" tvg-logo="https://e7.pngegg.com/pngimages/926/901/png-clipart-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem.png" group-title="Latinos Canales CuCa-TV",Mexico | Garage TV SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/80528
-#EXTINF:-1  tvg-name="Mexico | Azteca Uno" group-title="Latinos Canales CuCa-TV",Mexico | Azteca Uno
+#EXTINF:-1  tvg-name="Mexico | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Azteca_Uno_%282020%29.svg" group-title="Latinos Canales CuCa-TV",Mexico | Azteca Uno
 http://zuiowy.net:8080/cucaesputo/putoescuca/80682
-#EXTINF:-1  tvg-name="Mexico | TL Novelas" group-title="Latinos Canales CuCa-TV",Mexico | TL Novelas
+#EXTINF:-1  tvg-name="Mexico | TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Latinos Canales CuCa-TV",Mexico | TL Novelas
 http://zuiowy.net:8080/cucaesputo/putoescuca/110978
-#EXTINF:-1  tvg-name="Mexico | Canal 6 HD Monterrey" group-title="Latinos Canales CuCa-TV",Mexico | Canal 6 HD Monterrey
+#EXTINF:-1  tvg-name="Mexico | Canal 6 HD Monterrey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Canal 6 HD Monterrey
 http://zuiowy.net:8080/cucaesputo/putoescuca/112976
-#EXTINF:-1  tvg-name="Mexico | Canal 4 HD DF" group-title="Latinos Canales CuCa-TV",Mexico | Canal 4 HD DF
+#EXTINF:-1  tvg-name="Mexico | Canal 4 HD DF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04Na0S-bMW0RV89prhnlYpiKYJZLZiNkVJQ&s" group-title="Latinos Canales CuCa-TV",Mexico | Canal 4 HD DF
 http://zuiowy.net:8080/cucaesputo/putoescuca/113420
-#EXTINF:-1  tvg-name="Mexico | Canal 10 HD Cancun" group-title="Latinos Canales CuCa-TV",Mexico | Canal 10 HD Cancun
+#EXTINF:-1  tvg-name="Mexico | Canal 10 HD Cancun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaIzGi6VUIIoFHBpcbYZ8_L1iIhBFRf5KQA&s" group-title="Latinos Canales CuCa-TV",Mexico | Canal 10 HD Cancun
 http://zuiowy.net:8080/cucaesputo/putoescuca/125170
-#EXTINF:-1  tvg-name="Mexico | Telemax HD" group-title="Latinos Canales CuCa-TV",Mexico | Telemax HD
+#EXTINF:-1  tvg-name="Mexico | Telemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="Latinos Canales CuCa-TV",Mexico | Telemax HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/125171
-#EXTINF:-1  tvg-name="Mexico | SIPSE TV SD Merida" group-title="Latinos Canales CuCa-TV",Mexico | SIPSE TV SD Merida
+#EXTINF:-1  tvg-name="Mexico | SIPSE TV SD Merida" tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="Latinos Canales CuCa-TV",Mexico | SIPSE TV SD Merida
 http://zuiowy.net:8080/cucaesputo/putoescuca/125172
-#EXTINF:-1  tvg-name="Mexico | Canal 24 TV HD Zacatecas" group-title="Latinos Canales CuCa-TV",Mexico | Canal 24 TV HD Zacatecas
+#EXTINF:-1  tvg-name="Mexico | Canal 24 TV HD Zacatecas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyx4AGjNCrZMMCV__fHPSWT4i1d-Qzq6QXXg&s" group-title="Latinos Canales CuCa-TV",Mexico | Canal 24 TV HD Zacatecas
 http://zuiowy.net:8080/cucaesputo/putoescuca/125177
-#EXTINF:-1  tvg-name="Mexico | Canal 28 HD Nuevo Leon" group-title="Latinos Canales CuCa-TV",Mexico | Canal 28 HD Nuevo Leon
+#EXTINF:-1  tvg-name="Mexico | Canal 28 HD Nuevo Leon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWHoy5yJ7heDwhf6p65dXQKY-Ut3fzqt9tQ&s" group-title="Latinos Canales CuCa-TV",Mexico | Canal 28 HD Nuevo Leon
 http://zuiowy.net:8080/cucaesputo/putoescuca/125179
-#EXTINF:-1  tvg-name="Mexico | Canal B15 HD Zacatecas" group-title="Latinos Canales CuCa-TV",Mexico | Canal B15 HD Zacatecas
+#EXTINF:-1  tvg-name="Mexico | Canal B15 HD Zacatecas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVFTCijFRMkvBr6g7_2S7bhYWOv4wjjCoXw&s" group-title="Latinos Canales CuCa-TV",Mexico | Canal B15 HD Zacatecas
 http://zuiowy.net:8080/cucaesputo/putoescuca/125226
-#EXTINF:-1  tvg-name="Mexico | Movired HD Fresnillo" group-title="Latinos Canales CuCa-TV",Mexico | Movired HD Fresnillo
+#EXTINF:-1  tvg-name="Mexico | Movired HD Fresnillo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uKqvycym24NEuqTxoJIOXFMMTQuXRzzA5Q&s" group-title="Latinos Canales CuCa-TV",Mexico | Movired HD Fresnillo
 http://zuiowy.net:8080/cucaesputo/putoescuca/125227
-#EXTINF:-1  tvg-name="Mexico | Canal 2 TVP HD" group-title="Latinos Canales CuCa-TV",Mexico | Canal 2 TVP HD
+#EXTINF:-1  tvg-name="Mexico | Canal 2 TVP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/2560px-Canal_2_logo.svg.png" group-title="Latinos Canales CuCa-TV",Mexico | Canal 2 TVP HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/125230
-#EXTINF:-1  tvg-name="Mexico | SMRTV SD" group-title="Latinos Canales CuCa-TV",Mexico | SMRTV SD
+#EXTINF:-1  tvg-name="Mexico | SMRTV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjm-hEQc1DuLVJXRhZjQuDJIYcy54Aiz2OEQ&s" group-title="Latinos Canales CuCa-TV",Mexico | SMRTV SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/125231
-#EXTINF:-1  tvg-name="Mexico | Jalisco TV HD" group-title="Latinos Canales CuCa-TV",Mexico | Jalisco TV HD
+#EXTINF:-1  tvg-name="Mexico | Jalisco TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/800px-Jalisco-TV_logotype.png" group-title="Latinos Canales CuCa-TV",Mexico | Jalisco TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/125232
-#EXTINF:-1  tvg-name="Mexico | RCG Television SD" group-title="Latinos Canales CuCa-TV",Mexico | RCG Television SD
+#EXTINF:-1  tvg-name="Mexico | RCG Television SD" tvg-logo="https://seeklogo.com/images/R/RCG_Television-logo-A9491549EE-seeklogo.com.gif" group-title="Latinos Canales CuCa-TV",Mexico | RCG Television SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/125234
-#EXTINF:-1  tvg-name="Mexico | Canal Once.3 HD" group-title="Latinos Canales CuCa-TV",Mexico | Canal Once.3 HD
+#EXTINF:-1  tvg-name="Mexico | Canal Once.3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Image_of_Canal_11.png/200px-Image_of_Canal_11.png" group-title="Latinos Canales CuCa-TV",Mexico | Canal Once.3 HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/125235
-#EXTINF:-1  tvg-name="Mexico | TUDN SD" group-title="Latinos Canales CuCa-TV",Mexico | TUDN SD
+#EXTINF:-1  tvg-name="Mexico | TUDN SD" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Latinos Canales CuCa-TV",Mexico | TUDN SD
 http://zuiowy.net:8080/cucaesputo/putoescuca/135692
-#EXTINF:-1  tvg-name="Mexico | Vix Liga MX HD" group-title="Latinos Canales CuCa-TV",Mexico | Vix Liga MX HD
+#EXTINF:-1  tvg-name="Mexico | Vix Liga MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/1200px-MX_logo.png" group-title="Latinos Canales CuCa-TV",Mexico | Vix Liga MX HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/137382
-#EXTINF:-1  tvg-name="Mexico | Foro TV HD" group-title="Latinos Canales CuCa-TV",Mexico | Foro TV HD
+#EXTINF:-1  tvg-name="Mexico | Foro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Latinos Canales CuCa-TV",Mexico | Foro TV HD
 http://zuiowy.net:8080/cucaesputo/putoescuca/139128
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
